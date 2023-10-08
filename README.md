@@ -1,2 +1,2 @@
 # Belikov_EMSH
-print('hehehe')
+print('hello world')
